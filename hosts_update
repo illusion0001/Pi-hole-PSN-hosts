@@ -1,0 +1,7 @@
+# https://github.com/Al-Azif/exploit-host-cc/blob/e62af4f371b994d4a62e941df8d3e2d2a1637d7e/main.py
+
+127.0.0.1 gst.prod.dl.playstation.net
+127.0.0.1 sgst.prod.dl.playstation.net
+127.0.0.1 gs-sec.ww.np.dl.playstation.net
+127.0.0.1 gs2-sec.ww.prod.dl.playstation.net
+127.0.0.1 gs2.ww.prod.dl.playstation.net
